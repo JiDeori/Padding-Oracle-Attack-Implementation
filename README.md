@@ -11,9 +11,9 @@
 - **Language**: Python
 - **Networking**: Socket Programming
 - **Cryptography**:
-- Block Cipher 구조 이해
-- CBC Mode of Operation
-- PKCS#7 Padding Standard
+    - Block Cipher 구조 이해
+    - CBC Mode of Operation
+    - PKCS#7 Padding Standard
 - **Tools**: Custom Oracle Server (Python provided interfaces)
 
 ## 3. Technical Logic
